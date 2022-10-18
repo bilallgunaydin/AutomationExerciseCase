@@ -335,23 +335,6 @@ https://www.automationexercise.com/test_cases I made 26 Test Cases on the websit
     Then Verify that page is scrolled up and 'Full-Fledged practice website for Automation Engineers' text is visible on screen
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 ## Demo
 
@@ -369,10 +352,15 @@ https://www.youtube.com/watch?v=W7OwaHWGK_o&ab_channel=BilalG%C3%BCnayd%C4%B1n
 Here are the scenario types I tried for the first time. I will write them in headings. There were test cases that were very instructive.
 
 *Downloading files with Selenium
+
 *Checking downloaded file with Selenium
+
 *Using the Faker class that generates new data every time
+
 *Hover over a product and add to cart
+
 *Checking the shopping cart
+
 *Paying with Credit Card
 
 
