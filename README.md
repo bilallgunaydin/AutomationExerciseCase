@@ -2,7 +2,9 @@
 # AutomationExercise Test Cases
 
 https://www.automationexercise.com/test_cases I made 26 Test Cases on the website.
-![N11-logo-768x699 (1)]<img width="132" alt="logo" src="https://user-images.githubusercontent.com/21973124/196520852-fd63b8cf-ce3e-4095-a194-01922beb798a.png">
+
+<img width="344" alt="logo" src="https://user-images.githubusercontent.com/21973124/196521522-6af0ec1d-7380-4854-a9a2-65e2c9fed2f5.png">
+
 
 
     
@@ -359,7 +361,7 @@ https://www.youtube.com/watch?v=W7OwaHWGK_o&ab_channel=BilalG%C3%BCnayd%C4%B1n
 ## Screenshots
 ![egzersiz fotoğraf](https://user-images.githubusercontent.com/21973124/196520968-4f988b04-d8f9-4338-856e-0db4e0f60189.jpg)
 
-![Uygulama Ekran Görüntüsü]
+
 
   
 ## Lessons Learned
